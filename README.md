@@ -1,5 +1,6 @@
-## v1
+## default.conf 버전 
 
+## v1 original
 ```
 upstream app_server {
     server 192.168.0.49:8080;
